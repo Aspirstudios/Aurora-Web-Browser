@@ -7,22 +7,23 @@ Different Accounts on every Tab. The ultimate browser focused on extreme multita
 ### No tokens on Claude, too many accounts? Chrome, Firefox, Brave need new windows for every account.
 ## Aurora fixes that, custom accounts on every new tab
 
-https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python
-https://img.shields.io/badge/PyQt6-Chromium-green?style=for-the-badge&logo=qt
-https://img.shields.io/badge/License-MIT-purple?style=for-the-badge
-
+<img width="1363" height="710" alt="image" src="https://github.com/user-attachments/assets/98737a8b-8a33-4043-9e47-35674efc52a8" />
 
 ## 👥 Extreme Multitasking (Multi-Account per Tab)
 Why log out to switch accounts? Aurora introduces isolated profiles on a per-tab basis. You can have your Personal Gmail, Work Gmail, and an Incognito tab open simultaneously in the same window. Cookies, cache, and storage are completely isolated. Plus, a native Split View to browse two tabs side-by-side.
+
+
+<img width="260" height="238" alt="image" src="https://github.com/user-attachments/assets/9eeb50b9-477e-4b16-9418-0e853a77b5ba" />
 
 
 ## 🛡️ Native Auto-AdBlocker
 Aurora comes with a built-in, network-level adblocker and tracker blocker using DNS-over-HTTPS (DoH) and custom host lists.
 An integrated script engine automatically detects, mutes, and clicks "Skip Ad" on YouTube videos.
 
+<img width="1366" height="253" alt="image" src="https://github.com/user-attachments/assets/c43ab4b1-db1f-4dc2-aae6-c4a717d617d9" />
 
 ## 🖼️ Instant Picture-in-Picture (PiP)
-Right double-click any <video> element on any website. Aurora will instantly extract the video source and open it in an independent, resizable floating mini-player while you keep browsing.
+Right double-click any video element on any website. Aurora will instantly extract the video source and open it in an independent, resizable floating mini-player while you keep browsing.
 
 
 ## 🎨 Theme Features
