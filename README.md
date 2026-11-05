@@ -3,29 +3,33 @@
 Aurora Browser
 Different Accounts on every Tab. The ultimate browser focused on extreme multitasking and privacy.
 
-### No tokens on Claude, too many accounts? Chrome, Firefox, Brave need new windows for every account.
-## Aurora fixes that, custom accounts on every new tab.
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)
-![PyQt6](https://img.shields.io/badge/PyQt6-Chromium-green?style=for-the-badge&logo=qt)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+### No tokens on Claude, too many accounts? Chrome, Firefox, Brave need new windows for every account.
+## Aurora fixes that, custom accounts on every new tab
+
+https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python
+https://img.shields.io/badge/PyQt6-Chromium-green?style=for-the-badge&logo=qt
+https://img.shields.io/badge/License-MIT-purple?style=for-the-badge
 
 
 ## 👥 Extreme Multitasking (Multi-Account per Tab)
 Why log out to switch accounts? Aurora introduces isolated profiles on a per-tab basis. You can have your Personal Gmail, Work Gmail, and an Incognito tab open simultaneously in the same window. Cookies, cache, and storage are completely isolated. Plus, a native Split View to browse two tabs side-by-side.
 
+
 ## 🛡️ Native Auto-AdBlocker
 Aurora comes with a built-in, network-level adblocker and tracker blocker using DNS-over-HTTPS (DoH) and custom host lists.
 An integrated script engine automatically detects, mutes, and clicks "Skip Ad" on YouTube videos.
 
-## 🖼️ Instant Picture-in-Picture (PiP)
 
+## 🖼️ Instant Picture-in-Picture (PiP)
 Right double-click any <video> element on any website. Aurora will instantly extract the video source and open it in an independent, resizable floating mini-player while you keep browsing.
+
 
 ## 🎨 Theme Features
 🎞️ Animated New Tab: Set local images or videos (.mp4, .webm) as your background.
 🎭 Custom Themes: Built-in themes (Aurora, Dracula, Nord, Matrix) or create your own color palette.
 🎬 Media Extractor: Internal parser extracts video IDs from Vimeo and direct links for clean playback.
+
 
 
 ## Core
